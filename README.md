@@ -1,6 +1,4 @@
 # IoT-botNet-Detection
-Multi-class Machine Learning classifiers to Detect
-IoT botnet attacks
 
 This dataset addresses the lack of public botnet datasets, particularly for the Internet of 
 Things. It suggests real-world traffic statistics collected from 9 commercial IoT devices
